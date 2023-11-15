@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+
+@media only screen and (width > 1024px) {
+  .mainBody{
+    margin: 0 100px;
+  }
+}
